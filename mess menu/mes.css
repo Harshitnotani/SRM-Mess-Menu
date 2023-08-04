@@ -1,0 +1,47 @@
+@import "https://fonts.googleapis.com/css?family=Rancho&effect=fire-animation";
+
+h1 {
+  font-family: serif;
+  font-size: 60px;
+  margin: 40px 0;
+  text-align: center;
+  box-shadow: 0 0 5px #fff , 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff, 0 0 50px #0ff, 0 0 75px #0ff;
+}
+.neon {
+    color: #fff;
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 40px blue,
+      0 0 80px blue,
+      0 0 90px blue,
+      0 0 100px blue,
+      0 0 150px blue;
+  }
+
+body {
+  margin: 0;
+  padding: 0;
+    font-family: serif;
+  }
+  header {
+    background-color: ;
+    color: #b7ff00;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  li{list-style: square;
+      font-size: 30px;
+      align-items: center;
+    }
+
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }        
